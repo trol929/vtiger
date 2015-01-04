@@ -1,0 +1,287 @@
+PHP Warning:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:13:13 2014] [notice] Apache/2.2.26 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Mon Jan 06 19:13:13 2014] [notice] Server built: Nov 14 2013 12:27:13
+[Mon Jan 06 19:13:13 2014] [notice] Parent: Created child process 2748
+Apache server interrupted...
+c_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:13:13 2014] [notice] Child 2748: Child process is running
+[Mon Jan 06 19:13:13 2014] [notice] Child 2748: Acquired the start mutex.
+[Mon Jan 06 19:13:13 2014] [notice] Child 2748: Starting 64 worker threads.
+[Mon Jan 06 19:13:13 2014] [notice] Child 2748: Starting thread to listen on port 8889.
+[Mon Jan 06 19:13:17 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 06 19:13:17 2014] [notice] Child 2748: Exit event signaled. Child process is ending.
+[Mon Jan 06 19:13:18 2014] [notice] Child 2748: Released the start mutex
+[Mon Jan 06 19:13:19 2014] [notice] Child 2748: All worker threads have exited.
+[Mon Jan 06 19:13:19 2014] [notice] Child 2748: Child process is exiting
+[Mon Jan 06 19:13:19 2014] [notice] Parent: Child process exited successfully.
+Starting the vtigercrmApache-6.0.0-Beta service
+The vtigercrmApache-6.0.0-Beta service is running.
+cated in PHP 5.3 and greater in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:14:13 2014] [notice] Apache/2.2.26 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Mon Jan 06 19:14:13 2014] [notice] Server built: Nov 14 2013 12:27:13
+[Mon Jan 06 19:14:13 2014] [notice] Parent: Created child process 3644
+PHP Warning:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:14:13 2014] [notice] Child 3644: Child process is running
+[Mon Jan 06 19:14:13 2014] [notice] Child 3644: Acquired the start mutex.
+[Mon Jan 06 19:14:13 2014] [notice] Child 3644: Starting 64 worker threads.
+[Mon Jan 06 19:14:13 2014] [notice] Child 3644: Starting thread to listen on port 8889.
+[Mon Jan 06 19:21:30 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 06 19:21:30 2014] [notice] Child 3644: Exit event signaled. Child process is ending.
+[Mon Jan 06 19:21:31 2014] [notice] Child 3644: Released the start mutex
+[Mon Jan 06 19:21:32 2014] [notice] Child 3644: All worker threads have exited.
+[Mon Jan 06 19:21:32 2014] [notice] Child 3644: Child process is exiting
+[Mon Jan 06 19:21:32 2014] [notice] Parent: Child process exited successfully.
+Starting the vtigercrmApache-6.0.0-Beta service
+The vtigercrmApache-6.0.0-Beta service is running.
+cated in PHP 5.3 and greater in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:22:18 2014] [notice] Apache/2.2.26 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Mon Jan 06 19:22:18 2014] [notice] Server built: Nov 14 2013 12:27:13
+[Mon Jan 06 19:22:18 2014] [notice] Parent: Created child process 4564
+PHP Warning:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:22:18 2014] [notice] Child 4564: Child process is running
+[Mon Jan 06 19:22:18 2014] [notice] Child 4564: Acquired the start mutex.
+[Mon Jan 06 19:22:18 2014] [notice] Child 4564: Starting 64 worker threads.
+[Mon Jan 06 19:22:18 2014] [notice] Child 4564: Starting thread to listen on port 8889.
+[Mon Jan 06 19:50:10 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 06 19:50:10 2014] [notice] Child 4564: Exit event signaled. Child process is ending.
+[Mon Jan 06 19:50:11 2014] [notice] Child 4564: Released the start mutex
+[Mon Jan 06 19:50:12 2014] [notice] Child 4564: All worker threads have exited.
+[Mon Jan 06 19:50:12 2014] [notice] Child 4564: Child process is exiting
+[Mon Jan 06 19:50:12 2014] [notice] Parent: Child process exited successfully.
+Starting the vtigercrmApache-6.0.0-Beta service
+The vtigercrmApache-6.0.0-Beta service is running.
+cated in PHP 5.3 and greater in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:50:31 2014] [notice] Apache/2.2.26 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Mon Jan 06 19:50:31 2014] [notice] Server built: Nov 14 2013 12:27:13
+[Mon Jan 06 19:50:31 2014] [notice] Parent: Created child process 2100
+PHP Warning:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Program Files (x86)\\vtigercrm5\\php\\ext\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:50:31 2014] [notice] Child 2100: Child process is running
+[Mon Jan 06 19:50:31 2014] [notice] Child 2100: Acquired the start mutex.
+[Mon Jan 06 19:50:31 2014] [notice] Child 2100: Starting 64 worker threads.
+[Mon Jan 06 19:50:31 2014] [notice] Child 2100: Starting thread to listen on port 8889.
+[Mon Jan 06 19:53:12 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 06 19:53:12 2014] [notice] Child 2100: Exit event signaled. Child process is ending.
+[Mon Jan 06 19:53:13 2014] [notice] Child 2100: Released the start mutex
+[Mon Jan 06 19:53:14 2014] [notice] Child 2100: All worker threads have exited.
+[Mon Jan 06 19:53:14 2014] [notice] Child 2100: Child process is exiting
+[Mon Jan 06 19:53:14 2014] [notice] Parent: Child process exited successfully.
+Starting the vtigercrmApache-6.0.0-Beta service
+The vtigercrmApache-6.0.0-Beta service is running.
+ibrary 'C:\\php5\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_openssl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:53:19 2014] [notice] Apache/2.2.26 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Mon Jan 06 19:53:19 2014] [notice] Server built: Nov 14 2013 12:27:13
+[Mon Jan 06 19:53:19 2014] [notice] Parent: Created child process 4568
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_openssl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:53:19 2014] [notice] Child 4568: Child process is running
+[Mon Jan 06 19:53:19 2014] [notice] Child 4568: Acquired the start mutex.
+[Mon Jan 06 19:53:19 2014] [notice] Child 4568: Starting 64 worker threads.
+[Mon Jan 06 19:53:19 2014] [notice] Child 4568: Starting thread to listen on port 8889.
+[Mon Jan 06 19:54:57 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 06 19:54:57 2014] [notice] Child 4568: Exit event signaled. Child process is ending.
+[Mon Jan 06 19:54:58 2014] [notice] Child 4568: Released the start mutex
+[Mon Jan 06 19:54:59 2014] [notice] Child 4568: All worker threads have exited.
+[Mon Jan 06 19:54:59 2014] [notice] Child 4568: Child process is exiting
+[Mon Jan 06 19:54:59 2014] [notice] Parent: Child process exited successfully.
+Starting the vtigercrmApache-6.0.0-Beta service
+The vtigercrmApache-6.0.0-Beta service is running.
+ibrary 'C:\\php5\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_openssl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:55:02 2014] [notice] Apache/2.2.26 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Mon Jan 06 19:55:02 2014] [notice] Server built: Nov 14 2013 12:27:13
+[Mon Jan 06 19:55:02 2014] [notice] Parent: Created child process 4912
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_openssl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:55:02 2014] [notice] Child 4912: Child process is running
+[Mon Jan 06 19:55:02 2014] [notice] Child 4912: Acquired the start mutex.
+[Mon Jan 06 19:55:02 2014] [notice] Child 4912: Starting 64 worker threads.
+[Mon Jan 06 19:55:02 2014] [notice] Child 4912: Starting thread to listen on port 8889.
+[Mon Jan 06 19:57:21 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 06 19:57:21 2014] [notice] Child 4912: Exit event signaled. Child process is ending.
+[Mon Jan 06 19:57:22 2014] [notice] Child 4912: Released the start mutex
+[Mon Jan 06 19:57:23 2014] [notice] Child 4912: All worker threads have exited.
+[Mon Jan 06 19:57:23 2014] [notice] Child 4912: Child process is exiting
+[Mon Jan 06 19:57:23 2014] [notice] Parent: Child process exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_openssl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:57:27 2014] [notice] Apache/2.2.26 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Mon Jan 06 19:57:27 2014] [notice] Server built: Nov 14 2013 12:27:13
+[Mon Jan 06 19:57:27 2014] [notice] Parent: Created child process 4888
+Apache server interrupted...
+able to load dynamic library 'C:\\php5\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_openssl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:57:27 2014] [notice] Child 4888: Child process is running
+[Mon Jan 06 19:57:27 2014] [notice] Child 4888: Acquired the start mutex.
+[Mon Jan 06 19:57:27 2014] [notice] Child 4888: Starting 64 worker threads.
+[Mon Jan 06 19:57:27 2014] [notice] Child 4888: Starting thread to listen on port 8889.
+[Mon Jan 06 19:57:38 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+otice] Child 4888: Exit event signaled. Child process is ending.
+[Mon Jan 06 19:57:39 2014] [notice] Child 4888: Released the start mutex
+[Mon Jan 06 19:57:40 2014] [notice] Child 4888: All worker threads have exited.
+[Mon Jan 06 19:57:40 2014] [notice] Child 4888: Child process is exiting
+[Mon Jan 06 19:57:40 2014] [notice] Parent: Child process exited successfully.
+Starting the vtigercrmApache-6.0.0-Beta service
+The vtigercrmApache-6.0.0-Beta service is running.
+ibrary 'C:\\php5\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_openssl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:57:43 2014] [notice] Apache/2.2.26 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Mon Jan 06 19:57:43 2014] [notice] Server built: Nov 14 2013 12:27:13
+[Mon Jan 06 19:57:43 2014] [notice] Parent: Created child process 4436
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_openssl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 19:57:43 2014] [notice] Child 4436: Child process is running
+[Mon Jan 06 19:57:43 2014] [notice] Child 4436: Acquired the start mutex.
+[Mon Jan 06 19:57:43 2014] [notice] Child 4436: Starting 64 worker threads.
+[Mon Jan 06 19:57:43 2014] [notice] Child 4436: Starting thread to listen on port 8889.
+[Mon Jan 06 20:00:46 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 06 20:00:46 2014] [notice] Child 4436: Exit event signaled. Child process is ending.
+[Mon Jan 06 20:00:47 2014] [notice] Child 4436: Released the start mutex
+[Mon Jan 06 20:00:48 2014] [notice] Child 4436: All worker threads have exited.
+[Mon Jan 06 20:00:48 2014] [notice] Child 4436: Child process is exiting
+[Mon Jan 06 20:00:48 2014] [notice] Parent: Child process exited successfully.
+Starting the vtigercrmApache-6.0.0-Beta service
+The vtigercrmApache-6.0.0-Beta service is running.
+ibrary 'C:\\Documents and Settings\\Administrator\\Desktop\\vtigercrm-6.0.0-Beta1\\php\\ext\\php_openssl.dll' - The operating system cannot run %1.\r\n in Unknown on line 0
+[Mon Jan 06 20:00:52 2014] [notice] Apache/2.2.26 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Mon Jan 06 20:00:52 2014] [notice] Server built: Nov 14 2013 12:27:13
+[Mon Jan 06 20:00:52 2014] [notice] Parent: Created child process 616
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Documents and Settings\\Administrator\\Desktop\\vtigercrm-6.0.0-Beta1\\php\\ext\\php_openssl.dll' - The operating system cannot run %1.\r\n in Unknown on line 0
+[Mon Jan 06 20:00:52 2014] [notice] Child 616: Child process is running
+[Mon Jan 06 20:00:52 2014] [notice] Child 616: Acquired the start mutex.
+[Mon Jan 06 20:00:52 2014] [notice] Child 616: Starting 64 worker threads.
+[Mon Jan 06 20:00:52 2014] [notice] Child 616: Starting thread to listen on port 8889.
+[Mon Jan 06 20:04:19 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 06 20:04:19 2014] [notice] Child 616: Exit event signaled. Child process is ending.
+[Mon Jan 06 20:04:20 2014] [notice] Child 616: Released the start mutex
+[Mon Jan 06 20:04:21 2014] [notice] Child 616: All worker threads have exited.
+[Mon Jan 06 20:04:21 2014] [notice] Child 616: Child process is exiting
+[Mon Jan 06 20:04:21 2014] [notice] Parent: Child process exited successfully.
+Starting the vtigercrmApache-6.0.0-Beta service
+The vtigercrmApache-6.0.0-Beta service is running.
+ibrary 'C:\\php5\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_openssl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 20:04:26 2014] [notice] Apache/2.2.26 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Mon Jan 06 20:04:26 2014] [notice] Server built: Nov 14 2013 12:27:13
+[Mon Jan 06 20:04:26 2014] [notice] Parent: Created child process 444
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_imap.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\php5\\php_openssl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Jan 06 20:04:26 2014] [notice] Child 444: Child process is running
+[Mon Jan 06 20:04:26 2014] [notice] Child 444: Acquired the start mutex.
+[Mon Jan 06 20:04:26 2014] [notice] Child 444: Starting 64 worker threads.
+[Mon Jan 06 20:04:26 2014] [notice] Child 444: Starting thread to listen on port 8889.
+[Mon Jan 06 20:05:50 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 06 20:05:50 2014] [notice] Child 444: Exit event signaled. Child process is ending.
+[Mon Jan 06 20:05:51 2014] [notice] Child 444: Released the start mutex
+[Mon Jan 06 20:05:52 2014] [notice] Child 444: All worker threads have exited.
+[Mon Jan 06 20:05:52 2014] [notice] Child 444: Child process is exiting
+[Mon Jan 06 20:05:52 2014] [notice] Parent: Child process exited successfully.
+Starting the vtigercrmApache-6.0.0-Beta service
+The vtigercrmApache-6.0.0-Beta service is running.
+ibrary 'C:\\Documents and Settings\\Administrator\\Desktop\\vtigercrm-6.0.0-Beta1\\php\\ext\\php_openssl.dll' - The operating system cannot run %1.\r\n in Unknown on line 0
+[Mon Jan 06 20:05:54 2014] [notice] Apache/2.2.26 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Mon Jan 06 20:05:54 2014] [notice] Server built: Nov 14 2013 12:27:13
+[Mon Jan 06 20:05:54 2014] [notice] Parent: Created child process 4972
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Documents and Settings\\Administrator\\Desktop\\vtigercrm-6.0.0-Beta1\\php\\ext\\php_openssl.dll' - The operating system cannot run %1.\r\n in Unknown on line 0
+[Mon Jan 06 20:05:54 2014] [notice] Child 4972: Child process is running
+[Mon Jan 06 20:05:54 2014] [notice] Child 4972: Acquired the start mutex.
+[Mon Jan 06 20:05:54 2014] [notice] Child 4972: Starting 64 worker threads.
+[Mon Jan 06 20:05:54 2014] [notice] Child 4972: Starting thread to listen on port 8889.
+[Mon Jan 06 20:09:48 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 06 20:09:48 2014] [notice] Child 4972: Exit event signaled. Child process is ending.
+[Mon Jan 06 20:09:49 2014] [notice] Child 4972: Released the start mutex
+[Mon Jan 06 20:09:50 2014] [notice] Child 4972: All worker threads have exited.
+[Mon Jan 06 20:09:50 2014] [notice] Child 4972: Child process is exiting
+[Mon Jan 06 20:09:50 2014] [notice] Parent: Child process exited successfully.
+Starting the vtigercrmApache-6.0.0-Beta service
+The vtigercrmApache-6.0.0-Beta service is running.
+ibrary 'C:\\Documents and Settings\\Administrator\\Desktop\\vtigercrm-6.0.0-Beta1\\php\\ext\\php_openssl.dll' - The operating system cannot run %1.\r\n in Unknown on line 0
+[Mon Jan 06 20:09:54 2014] [notice] Apache/2.2.26 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Mon Jan 06 20:09:54 2014] [notice] Server built: Nov 14 2013 12:27:13
+[Mon Jan 06 20:09:54 2014] [notice] Parent: Created child process 3560
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Documents and Settings\\Administrator\\Desktop\\vtigercrm-6.0.0-Beta1\\php\\ext\\php_openssl.dll' - The operating system cannot run %1.\r\n in Unknown on line 0
+[Mon Jan 06 20:09:54 2014] [notice] Child 3560: Child process is running
+[Mon Jan 06 20:09:54 2014] [notice] Child 3560: Acquired the start mutex.
+[Mon Jan 06 20:09:54 2014] [notice] Child 3560: Starting 64 worker threads.
+[Mon Jan 06 20:09:54 2014] [notice] Child 3560: Starting thread to listen on port 8889.
+Starting the vtigercrmApache600 service
+The vtigercrmApache600 service is running.
+C:/vtigerCRM610/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 03 20:45:46 2015] [notice] Apache/2.2.26 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sat Jan 03 20:45:46 2015] [notice] Server built: Nov 14 2013 12:27:13
+[Sat Jan 03 20:45:46 2015] [notice] Parent: Created child process 7944
+[Sat Jan 03 20:45:46 2015] [notice] Child 7944: Child process is running
+[Sat Jan 03 20:45:46 2015] [notice] Child 7944: Acquired the start mutex.
+[Sat Jan 03 20:45:46 2015] [notice] Child 7944: Starting 64 worker threads.
+[Sat Jan 03 20:45:46 2015] [notice] Child 7944: Starting thread to listen on port 8888.
+[Sat Jan 03 20:45:46 2015] [notice] Child 7944: Starting thread to listen on port 8888.
+[Sat Jan 03 22:52:49 2015] [error] [client ::1] #0 C:\\vtigerCRM610\\apache\\htdocs\\vtigerCRM\\includes\\main\\WebUI.php(173): Vtiger_WebUI->triggerCheckPermission(Object(Vtiger_ShowWidget_View), Object(Vtiger_Request))\n#1 C:\\vtigerCRM610\\apache\\htdocs\\vtigerCRM\\index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))\n#2 {main}, referer: http://localhost:8888/
+[Sat Jan 03 23:37:17 2015] [error] [client ::1] #0 C:\\vtigerCRM610\\apache\\htdocs\\vtigerCRM\\includes\\main\\WebUI.php(173): Vtiger_WebUI->triggerCheckPermission(Object(Vtiger_ShowWidget_View), Object(Vtiger_Request))\n#1 C:\\vtigerCRM610\\apache\\htdocs\\vtigerCRM\\index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))\n#2 {main}, referer: http://localhost:8888/
+[Sat Jan 03 23:54:24 2015] [error] [client ::1] #0 C:\\vtigerCRM610\\apache\\htdocs\\vtigerCRM\\includes\\main\\WebUI.php(173): Vtiger_WebUI->triggerCheckPermission(Object(Vtiger_ShowWidget_View), Object(Vtiger_Request))\n#1 C:\\vtigerCRM610\\apache\\htdocs\\vtigerCRM\\index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))\n#2 {main}, referer: http://localhost:8888/index.php?module=Home&view=DashBoard
+[Sat Jan 03 23:54:35 2015] [error] [client ::1] #0 C:\\vtigerCRM610\\apache\\htdocs\\vtigerCRM\\includes\\main\\WebUI.php(173): Vtiger_WebUI->triggerCheckPermission(Object(Vtiger_ShowWidget_View), Object(Vtiger_Request))\n#1 C:\\vtigerCRM610\\apache\\htdocs\\vtigerCRM\\index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))\n#2 {main}, referer: http://localhost:8888/index.php?module=Home&view=DashBoard
+[Sat Jan 03 23:55:27 2015] [error] [client ::1] #0 C:\\vtigerCRM610\\apache\\htdocs\\vtigerCRM\\includes\\main\\WebUI.php(173): Vtiger_WebUI->triggerCheckPermission(Object(Vtiger_ShowWidget_View), Object(Vtiger_Request))\n#1 C:\\vtigerCRM610\\apache\\htdocs\\vtigerCRM\\index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))\n#2 {main}, referer: http://localhost:8888/index.php?module=Home&view=DashBoard
+[Sat Jan 03 23:55:55 2015] [error] [client ::1] #0 C:\\vtigerCRM610\\apache\\htdocs\\vtigerCRM\\includes\\main\\WebUI.php(173): Vtiger_WebUI->triggerCheckPermission(Object(Vtiger_ShowWidget_View), Object(Vtiger_Request))\n#1 C:\\vtigerCRM610\\apache\\htdocs\\vtigerCRM\\index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))\n#2 {main}, referer: http://localhost:8888/index.php?module=Home&view=DashBoard
+[Sun Jan 04 12:36:58 2015] [warn] pid file C:/vtigerCRM610/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 04 12:36:59 2015] [notice] Apache/2.2.26 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Jan 04 12:36:59 2015] [notice] Server built: Nov 14 2013 12:27:13
+[Sun Jan 04 12:36:59 2015] [notice] Parent: Created child process 3072
+[Sun Jan 04 12:36:59 2015] [notice] Child 3072: Child process is running
+[Sun Jan 04 12:36:59 2015] [notice] Child 3072: Acquired the start mutex.
+[Sun Jan 04 12:36:59 2015] [notice] Child 3072: Starting 64 worker threads.
+[Sun Jan 04 12:36:59 2015] [notice] Child 3072: Starting thread to listen on port 8888.
+[Sun Jan 04 12:36:59 2015] [notice] Child 3072: Starting thread to listen on port 8888.
